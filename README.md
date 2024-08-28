@@ -1,6 +1,8 @@
 # assessment2
 Question 2 of GovTech DevOps Internship Assessment
 
+**Using IaC (Terraform) and AWS**
+
 1. Added py file for the lambda function to call the dummy API
 2. Added modules/lambda_function (modules.tf and variables.tf), which helps to make the resources reusable e.g. like a component
 3. Added main.tf to add in provider with Singapore region and also the module for the lambda function (which states all the configurations needed)
